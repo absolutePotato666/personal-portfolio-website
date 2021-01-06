@@ -54,6 +54,10 @@ body{
     padding-bottom: 5px;
     border-radius: 7%;
 }
+#fb{
+    position: absolute;
+    left: 70%;
+}
 #latest
 {
     color: orange;
@@ -111,4 +115,15 @@ body{
     padding-bottom: 5px;
     border-radius: 7%;
 
+}
+#extra{
+    float: left;
+    padding-left: 15%;
+    padding-top: 10%;
+    width: 35%;
+}
+#extraT{
+    float: left;
+    padding-top: 10%;
+    padding-left: 15%;
 }
